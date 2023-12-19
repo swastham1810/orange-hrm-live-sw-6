@@ -1,0 +1,10 @@
+2023-12-18 22:12:484 INFO  HomePage :89 - Get logo : [[ChromeDriver: chrome on windows (0e25deb74d81441d7498186105d5a1d5)] -> xpath: //img[@alt='client brand banner']]
+2023-12-18 23:12:875 INFO  HomePage :89 - Get logo : [[ChromeDriver: chrome on windows (6ea104e1a1691a91edcf4607dd6b0808)] -> xpath: //img[@alt='client brand banner']]
+2023-12-19 00:12:518 INFO  ViewSystemUsersPage :128 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (f0cc222aeda61a13792ab4a024d8083f)] -> xpath: //span[contains(text(),'Admin')]]
+2023-12-19 00:12:08 INFO  ViewSystemUsersPage :120 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (f0cc222aeda61a13792ab4a024d8083f)] -> xpath: //span[normalize-space()='Disabled']]
+2023-12-19 00:12:174 INFO  ViewSystemUsersPage :170 - Getting UserName from record : Proxy element for: DefaultElementLocator 'By.xpath: (//div[@data-v-6c07a142])[1]'
+2023-12-19 00:12:162 INFO  ViewSystemUsersPage :128 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (d77c49a4ec2873970e617aa841ff7277)] -> xpath: //span[contains(text(),'Admin')]]
+2023-12-19 00:12:416 INFO  ViewSystemUsersPage :128 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (735390ff9c2e3c7d6954917157f8eabe)] -> xpath: //span[contains(text(),'Admin')]]
+2023-12-19 00:12:404 INFO  ViewSystemUsersPage :128 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (cae7b9084bd881341e8d2f49c0dafd20)] -> xpath: //span[contains(text(),'Admin')]]
+2023-12-19 00:12:909 INFO  ViewSystemUsersPage :120 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (cae7b9084bd881341e8d2f49c0dafd20)] -> xpath: //span[normalize-space()='Disabled']]
+2023-12-19 00:12:44 INFO  ViewSystemUsersPage :170 - Getting UserName from record : Proxy element for: DefaultElementLocator 'By.xpath: (//div[@data-v-6c07a142])[1]'
